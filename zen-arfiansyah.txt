@@ -2,5 +2,5 @@ Belajar Github
 - materi pertama
 - materi kedua
 - materi ketiga 
-- materi keempat
 - materi kelima
+- materi ke enam
