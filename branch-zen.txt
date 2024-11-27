@@ -6,3 +6,4 @@ belajar github part 2
 - materi kelima
 - materi keenam
 - materi ketujuh
+- materi kedelapan (fitur 1)
