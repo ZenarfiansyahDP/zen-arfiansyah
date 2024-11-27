@@ -4,3 +4,5 @@ belajar github part 2
 - materi ketiga
 - materi keempat
 - materi kelima
+- materi keenam
+- materi ketujuh
